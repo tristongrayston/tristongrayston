@@ -9,8 +9,6 @@ I'm a 4th-year CS & Math student at UVic. A previous president of the UVicAI clu
 - The Superresolution of SDSS Spectra with Predictive Latent Models.
 - ... And many more!   
 
-💼 I'm actively looking for 2025/2026 co-ops in AI, Data Science, Robotics, ML and Software Engineering roles.
-
 📫 Let’s connect:
 - [Website](https://tristongrayston.github.io)
 - [LinkedIn](https://linkedin.com/in/tristongrayston)
