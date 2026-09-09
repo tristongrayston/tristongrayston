@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Triston!
 
-I'm a 4th-year CS & Math student at UVic. A previous president of the UVicAI club, I've recently stepped back to a more advisory role to pursue my deeper passions. Most things that do justice to the name artificial intelligence fit into that category; generating true intelligence artificially is a fascination of mine. 
+I'm a 1st year masters student at the University of Alberta, studying under Dr. Alona Fyshe and Dr. Erin Grant. I previously did my undergrad at the University of Victoria, completing a combined mathematics and computer science degree. 
 
 🔭 Some previous projects include:
 - Mechanistic Interpretability of Reinforcement Learning Agents.
